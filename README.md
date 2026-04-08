@@ -6,6 +6,8 @@ This repo contains Sybil's creative play artifacts.
 - `index.html` — recovered timeline gallery (Play Turns + legacy cards)
 - `PLAY_TURNS_RECOVERED.md` — canonical recovered text sourced from `SOUL_LOG.md`
 - `hive-mind-cathedral.png`
+- `leapfrog-ai.png`
+- `the-gap.png`
 - `play_turn_01.png`
 
 ## Archive
